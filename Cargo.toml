@@ -1,0 +1,7 @@
+[package]
+name = "fizz_buzz"
+version = "0.1.0"
+authors = ["jaredmanning <jaredm@openmailbox.org>"]
+license = "MIT"
+
+[dependencies]
